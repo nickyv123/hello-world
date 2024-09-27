@@ -1,3 +1,3 @@
 # hello-world
 My first repo 
-print('I am a jr in college at the University of Iowa')
+I am a jr at the University of Iowa
